@@ -12,10 +12,8 @@ elem_ctoken = driver.find_element(By.CSS_SELECTOR,"input").clear()
 elem_token = driver.find_element(By.CSS_SELECTOR,"input")
 elem_token.send_keys(my_token + Keys.RETURN)
 # In case it need some time to populate the content. 
-# time.sleep(20)
-
-html = driver.page_source
-soup = BeautifulSoup(html)
-logginTag = soup.find("a", {"id" : "token"})
-print(logginTag)
+# time.sleep(5)
+# get the 2fa code 
+out = driver.find_element(By.ID,"token").text
+print(out)
 driver.close()
