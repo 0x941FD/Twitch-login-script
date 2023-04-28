@@ -14,7 +14,8 @@ sudo apt install python3-pip
 ### Dependencies
 Selenium: 
 ```
-pip install selenium 
+pip install selenium
+//or
 pip3 install selenium
 ```
 Beautifulsoup
