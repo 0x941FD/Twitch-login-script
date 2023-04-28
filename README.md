@@ -16,7 +16,7 @@ Selenium:
 ```
 pip install selenium
 ```
-```or```
+or
 ```
 pip3 install selenium
 ```
