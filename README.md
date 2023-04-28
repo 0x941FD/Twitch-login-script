@@ -1,16 +1,17 @@
 # Twitch login script
 ## Requirements
-You need to have python and pip installed, if you dont have you can install with this commands:
+For this program you need to have python and pip installed, if you dont have you can install with this commands:
 <br>
 <br>
-python
+Python
 ```
 sudo apt-get install python3
 ```
-pip
+Pip
 ```
 sudo apt install python3-pip
 ```
+<br>
 ### Dependencies
 Selenium: 
 ```
