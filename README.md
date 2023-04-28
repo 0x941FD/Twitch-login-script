@@ -32,6 +32,7 @@ in case you have pip3 follow this command:
 pip3 install beautifulsoup4
 ```
 ## Usage
+After installing ```python, pip and all the dependencies``` you can continue.
 ```python
 
 ```
