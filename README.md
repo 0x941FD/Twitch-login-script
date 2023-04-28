@@ -14,11 +14,12 @@ sudo apt install python3-pip
 <br>
 
 ### Dependencies
-Selenium: 
+Selenium 
+in case you have pip follow this command: 
 ```
 pip install selenium
 ```
-or
+in case you have pip3 follow this command: 
 ```
 pip3 install selenium
 ```
