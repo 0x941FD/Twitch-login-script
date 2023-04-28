@@ -33,7 +33,7 @@ pip3 install beautifulsoup4
 ```
 ## Usage
 After installing ```python, pip and all the dependencies``` you can continue.<br>
-you need to configure the accounts.txt file with this format(one account per line):<br><br>
+You need to configure the accounts.txt file with this format(one account per line):<br><br>
 Accounts.txt
 ```python
 Username:Password:SecretKey
