@@ -23,9 +23,8 @@ in case you have pip3 follow this command:
 ```
 pip3 install selenium
 ```
-<p>
-<p>
-Beautifulsoup
+<br>
+### Beautifulsoup
 ```
 pip install beautifulsoup4
 ```
