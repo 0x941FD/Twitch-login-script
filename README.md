@@ -21,11 +21,13 @@ in case you have pip3 follow this command:
 ```
 pip3 install selenium
 ```
+
 ### Beautifulsoup
+in case you have pip follow this command:
 ```
 pip install beautifulsoup4
 ```
-or
+in case you have pip3 follow this command:
 ```
 pip3 install beautifulsoup4
 ```
