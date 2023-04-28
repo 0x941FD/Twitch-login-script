@@ -11,7 +11,6 @@ Pip
 ```
 sudo apt install python3-pip
 ```
-<br>
 ## Dependencies
 ### Selenium
 in case you have pip follow this command: 
