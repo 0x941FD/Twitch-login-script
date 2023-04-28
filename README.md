@@ -32,7 +32,9 @@ in case you have pip3 follow this command:
 pip3 install beautifulsoup4
 ```
 ## Usage
-After installing ```python, pip and all the dependencies``` you can continue.
+After installing ```python, pip and all the dependencies``` you can continue.<br>
+you need to configure the accounts.txt file with this format:<br><br>
+Accounts.txt
 ```python
-
+Username:Password:SecretKey
 ```
