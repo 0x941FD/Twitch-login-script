@@ -12,12 +12,21 @@ pip
 sudo apt install python3-pip
 ```
 ### Dependencies
+Selenium: 
 ```
 pip install selenium
 ```
 or
 ```
 pip3 install selenium
+```
+Beautifulsoup
+```
+pip install beautifulsoup4
+```
+or
+```
+pip3 install beautifulsoup4
 ```
 ## Usage
 ```python
