@@ -1,4 +1,6 @@
 # Twitch login script
+## Description
+this project consists in a script to login on twitch with more than one account at the same time (with 2FA code) 
 ## Requirements
 For this program you need to have python and pip installed, if you dont have you can install with this commands:
 <br>
@@ -38,3 +40,4 @@ Accounts.txt
 ```python
 Username:Password:SecretKey
 ```
+
