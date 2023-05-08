@@ -1,4 +1,4 @@
-# Twitch login script
+# Twitch login script (Not working)
 ## Description
 this project consists in a script to login on twitch with more than one account at the same time (with 2FA code) 
 ## Requirements
